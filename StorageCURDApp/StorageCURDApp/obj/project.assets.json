@@ -6262,19 +6262,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\J.Pranathi\\.nuget\\packages\\": {}
+    "C:\\Users\\vmadmin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\J.Pranathi\\OneDrive\\Desktop\\IOT\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
+      "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
       "projectName": "StorageCURDApp",
-      "projectPath": "C:\\Users\\J.Pranathi\\OneDrive\\Desktop\\IOT\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
-      "packagesPath": "C:\\Users\\J.Pranathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\J.Pranathi\\OneDrive\\Desktop\\IOT\\StorageCURDApp\\StorageCURDApp\\obj\\",
+      "projectPath": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
+      "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\J.Pranathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6344,7 +6344,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
