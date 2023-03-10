@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z2PwiSybwjKU3ub7lFhyv0moOi8RDf620EcT61C3CXo=",
+  "Source": "StorageCURDApp",
+  "BasePath": "_content/StorageCURDApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
