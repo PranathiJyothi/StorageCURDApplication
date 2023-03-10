@@ -84,3 +84,4 @@ C:\Users\vmadmin\Desktop\project2\StorageCURDApplication\StorageCURDApp\StorageC
 C:\Users\vmadmin\Desktop\project2\StorageCURDApplication\StorageCURDApp\StorageCURDApp\obj\Debug\net6.0\StorageCURDApp.pdb
 C:\Users\vmadmin\Desktop\project2\StorageCURDApplication\StorageCURDApp\StorageCURDApp\obj\Debug\net6.0\StorageCURDApp.genruntimeconfig.cache
 C:\Users\vmadmin\Desktop\project2\StorageCURDApplication\StorageCURDApp\StorageCURDApp\obj\Debug\net6.0\ref\StorageCURDApp.dll
+C:\Users\vmadmin\Desktop\project2\StorageCURDApplication\StorageCURDApp\StorageCURDApp\bin\Debug\net6.0\Docker.DotNet.dll
