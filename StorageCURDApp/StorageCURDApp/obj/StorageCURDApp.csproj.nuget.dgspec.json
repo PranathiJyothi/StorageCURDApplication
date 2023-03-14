@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj": {}
+    "C:\\Users\\vmadmin\\Desktop\\projects\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj": {
+    "C:\\Users\\vmadmin\\Desktop\\projects\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\projects\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
         "projectName": "StorageCURDApp",
-        "projectPath": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\Desktop\\projects\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\StorageCURDApp.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vmadmin\\Desktop\\project2\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\Desktop\\projects\\StorageCURDApplication\\StorageCURDApp\\StorageCURDApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
